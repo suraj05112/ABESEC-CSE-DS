@@ -1,4 +1,4 @@
-{ 
+{
     <div id="outer-div">
 <h1 id="inner-div"></h1>
     <h1 id="heading"></h1>
